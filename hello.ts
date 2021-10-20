@@ -4,6 +4,6 @@ class Greeter {
         this.greeting = "World";
     }
     greet() {
-        return "Hello, " + this.greeting;
+        return "Hello All, " + this.greeting;
     }
 }
